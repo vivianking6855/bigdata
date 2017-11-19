@@ -1,6 +1,8 @@
 #!/usr/local/bin/python
 # -*- coding: utf-8 -*-
 
+# learn from https://zhuanlan.zhihu.com/p/29433134
+
 import requests
 from bs4 import BeautifulSoup     #从bs4这个库中导入BeautifulSoup
 from lxml import etree

@@ -1,6 +1,8 @@
 #!/usr/local/bin/python
 # -*- coding: utf-8 -*-
 
+# learn from https://www.zhihu.com/question/47883186
+
 from lxml import etree
 import requests
 import sys
