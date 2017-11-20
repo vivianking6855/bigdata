@@ -12,13 +12,12 @@ def main():
 
     url = 'http://www.server.com/login'
     user_agent = 'Mozilla/4.0 (compatible; MSIE 5.5; Windows NT)'
-    values = {'username': 'cqc', 'password': 'XXXX'}
-    headers = {'User-Agent': user_agent, 'Referer': 'http://www.zhihu.com/articles'}
-    data = urllib.urlencode(values)
-    request = urllib2.Request(url, data, headers)
+    headers = {'User-Agent': user_agent}
+    request = urllib2.Request(url, headers)
     try:
         response = urllib2.urlopen(request)
         page = response.read()
+        print page
     except urllib2.URLError, e:
         print e.reason
 
