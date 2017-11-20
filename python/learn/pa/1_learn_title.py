@@ -1,7 +1,7 @@
 #!/usr/local/bin/python
 # -*- coding: utf-8 -*-
 
-# learn from https://www.zhihu.com/question/47883186
+# learn from 零基础如何学爬虫技术 https://www.zhihu.com/question/47883186
 
 from lxml import etree
 import requests
