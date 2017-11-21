@@ -26,7 +26,7 @@ def main():
 
     # why this way doesn't work?
     # s = etree.HTML(r.text)
-    # title = s.xpath('//*[@id="main"]/div/div[1]/article[1]/header/h1/a/text()')
+    # title = s.to.xpath('//*[@id="main"]/div/div[1]/article[1]/header/h1/a/text()')
     # print (title)
 
     # write to file
