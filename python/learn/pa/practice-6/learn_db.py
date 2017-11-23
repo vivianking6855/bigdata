@@ -2,7 +2,7 @@
 # !/usr/bin/python
 # Python中MySQLConnector模块使用方法详解  http://blog.csdn.net/figerdeng/article/details/50493483
 
-import MySQLdb;
+import mysql.connector
 import sys
 
 def main():
