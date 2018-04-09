@@ -1,0 +1,34 @@
+{
+  "configs": [
+    {
+      "index": 0,
+      "search_word": "华硕顽石畅玩版R414UV",
+      "price": "3000",
+      "productName": "顽石畅玩版R414UV",
+      "keyword": "顽石畅玩版R414UV",
+      "tables": [
+        "pc_info",
+        "pc_comments",
+        "pc_comments_sub",
+        "pc_comments_words",
+        "pc_info_sub"
+      ],
+      "jdown":true
+    },
+    {
+      "index": 1,
+      "search_word": "华硕顽石五代FL8000UQ",
+      "price": "4000",
+      "productName": "华硕顽石五代FL8000UQ",
+      "keyword": "顽石五代FL8000UQ",
+      "tables": [
+        "pc_info",
+        "pc_comments",
+        "pc_comments_sub",
+        "pc_comments_words",
+        "pc_info_sub"
+      ],
+      "jdown":true
+    }
+  ]
+}

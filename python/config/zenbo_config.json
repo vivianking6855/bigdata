@@ -1,0 +1,19 @@
+{
+"configs":[
+  {
+    "index": 0,
+    "search_word":"华硕Zenbo",
+    "price":"4000",
+    "productName":"华硕Zenbo Qrobot 小布智能机器人",
+    "keyword":"Zenbo",
+    "tables": [
+        "zenbo_info",
+        "zenbo_comments",
+        "zenbo_comments_sub",
+        "zenbo_comments_words",
+        "zenbo_info_sub"
+      ],
+      "jdown":true
+  }
+]
+}

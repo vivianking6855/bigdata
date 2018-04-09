@@ -1,0 +1,19 @@
+{
+  "configs": [
+    {
+      "index": 0,
+      "search_word": "华硕手机",
+      "price": "1000",
+      "productName": "华硕手机",
+      "keyword": "手机",
+      "tables": [
+        "phone_info",
+        "phone_comments",
+        "phone_comments_sub",
+        "phone_comments_words",
+        "phone_info_sub"
+      ],
+      "jdown":false
+    }
+  ]
+}

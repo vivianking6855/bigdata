@@ -1,0 +1,19 @@
+{
+  "configs": [
+    {
+      "index": 0,
+      "search_word": "小米air13.3",
+      "price": "4000",
+      "productName": "小米(MI)Air 13.3英寸全金属轻薄笔记本",
+      "keyword": "13.3",
+      "tables": [
+        "compete_info",
+        "compete_comments",
+        "compete_comments_sub",
+        "compete_comments_words",
+        "compete_info_sub"
+      ],
+      "jdown":false
+    }
+  ]
+}
